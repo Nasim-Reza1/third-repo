@@ -10,3 +10,7 @@ body{
 p{
     font-style: italic;
 }
+h1{
+    background-color: violet;
+    color: white;
+}
